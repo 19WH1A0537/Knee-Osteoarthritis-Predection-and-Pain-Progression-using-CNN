@@ -1,1 +1,1 @@
-# Knee-Osteoarthritis-Predection-and-Pain-Progression-using-CNN
+# Knee-Osteoarthritis-Prediction-and-Pain-Progression-using-CNN
